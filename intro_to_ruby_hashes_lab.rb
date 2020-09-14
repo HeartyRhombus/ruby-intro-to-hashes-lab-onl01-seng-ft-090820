@@ -9,9 +9,14 @@ def actor
 end
 
 def monopoly
+<<<<<<< HEAD
 	monopoly = {
 		railroads: {}
 	}
+=======
+	monopoly = {}
+	monopoly[:railroads] = {}
+>>>>>>> c586bb8d95b2f326c9a70891fe7219c3e04d0b44
 
 end
 
